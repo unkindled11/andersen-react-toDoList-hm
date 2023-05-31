@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andersen-react-toDoList-hm/static/css/main.7acaea2f.css",
+    "main.js": "/andersen-react-toDoList-hm/static/js/main.07d3183d.js",
+    "index.html": "/andersen-react-toDoList-hm/index.html",
+    "main.7acaea2f.css.map": "/andersen-react-toDoList-hm/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/andersen-react-toDoList-hm/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
